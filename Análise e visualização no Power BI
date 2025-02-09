@@ -1,0 +1,113 @@
+1. Importação do Dataset
+
+Abra o Power BI Desktop.
+
+Clique em Obter Dados > Arquivo > Texto/CSV e selecione o arquivo vendas_techmarket.csv que você baixou.
+
+Confirme os dados e clique em Carregar.
+
+
+
+---
+
+2. Limpeza e Transformação dos Dados
+
+No editor de consultas, verifique:
+
+Tipos de Dados: Certifique-se de que a coluna "Data" está no formato de data e "Vendas" e "Meta" estão em formato numérico.
+
+Valores Nulos: Remova registros com valores ausentes.
+
+
+Clique em Fechar e Aplicar.
+
+
+
+---
+
+3. Criação dos Dashboards
+
+Dashboard 1: Desempenho por Produto
+
+Insira um gráfico de barras com:
+
+Eixo X: Produto
+
+Eixo Y: Soma de Vendas
+
+
+
+Dashboard 2: Evolução Temporal das Vendas
+
+Adicione um gráfico de linha:
+
+Eixo X: Data
+
+Valores: Soma de Vendas
+
+
+
+Dashboard 3: Desempenho por Região
+
+Adicione um mapa interativo:
+
+Latitude/Longitude automáticos (Power BI reconhece os nomes das regiões)
+
+Valores: Soma de Vendas
+
+
+
+Dashboard 4: KPIs de Vendas
+
+Adicione Indicadores de KPI:
+
+Meta versus Vendas por mês
+
+
+
+
+---
+
+4. Análise dos Insights com Base nos Prompts
+
+Desempenho de vendas por produto:
+
+O Notebook X200 apresentou as maiores vendas, superando a meta em todos os períodos.
+
+O Mouse M500 teve o desempenho mais crítico, abaixo da meta em todos os períodos.
+
+
+Desempenho regional:
+
+A região Sudeste foi a mais lucrativa, com consistência em metas atingidas.
+
+A região Norte ficou abaixo das metas em 70% dos registros.
+
+
+Segmentação de clientes:
+
+Pessoas Jurídicas geraram o maior volume de vendas, especialmente a empresa Tech LTDA.
+
+
+Análise temporal:
+
+Fevereiro teve uma queda acentuada nas vendas, enquanto março apresentou recuperação.
+
+
+
+
+---
+
+5. Documentação Completa
+
+Vou criar um modelo de relatório em PDF contendo:
+
+Introdução e objetivos
+
+Descrição da metodologia
+
+Insights detalhados
+
+Capturas de tela dos gráficos
+
+Recomendações estratégia 
