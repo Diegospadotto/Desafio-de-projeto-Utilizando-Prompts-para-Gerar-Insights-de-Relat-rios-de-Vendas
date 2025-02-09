@@ -1,0 +1,16 @@
+Data,Produto,Categoria,Região,Vendas,Meta,Cliente,Tipo Cliente
+2025-01-01,Notebook X200,Eletrônico,Sul,1500,2000,João,Pessoa Física
+2025-01-03,Smartphone Y,Eletrônico,Sudeste,2500,2000,Maria,Pessoa Jurídica
+2025-02-10,Impressora Z,Periférico,Norte,1000,1500,Tech LTDA,Pessoa Jurídica
+2025-03-05,Monitor W,Periférico,Centro-Oeste,3000,2500,Ana,Pessoa Física
+2025-01-15,Tablet T100,Eletrônico,Sudeste,1800,1800,Carlos,Pessoa Jurídica
+2025-02-18,Teclado K300,Periférico,Sul,1200,1500,Pedro,Pessoa Física
+2025-03-20,Mouse M500,Periférico,Norte,900,1000,Jorge,Pessoa Física
+2025-01-25,Câmera C100,Eletrônico,Centro-Oeste,2500,2500,Marta,Pessoa Jurídica
+2025-02-05,Headset H200,Periférico,Sudeste,1600,1500,Luis,Pessoa Física
+2025-03-10,Smartwatch S500,Eletrônico,Sul,2700,2500,Fernanda,Pessoa Jurídica
+2025-01-30,Notebook X200,Eletrônico,Centro-Oeste,1400,2000,João,Pessoa Física
+2025-02-15,Smartphone Y,Eletrônico,Sudeste,2200,2000,Maria,Pessoa Jurídica
+2025-03-25,Impressora Z,Periférico,Norte,1100,1500,Tech LTDA,Pessoa Jurídica
+2025-01-20,Monitor W,Periférico,Sul,3200,3000,Ana,Pessoa Física
+2025-03-15,Tablet T100,Eletrônico,Sudeste,2000,2000,Carlos,Pessoa Jurídica
